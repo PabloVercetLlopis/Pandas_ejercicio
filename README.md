@@ -37,13 +37,26 @@ A continuación se describen los ejercicios que resuelve el script:
 
 ## Estructura del repositorio
 
-pandas_exercise/
-
-├── README.md              # Descripción del proyecto y cómo ejecutarlo
-├── imdb_titulos.csv       # Archivo CSV con los títulos de las películas
-├── imdb_elenco.csv        # Archivo CSV con el elenco de las películas
-├── pandas_analysis.py     # Código fuente con las soluciones del ejercicio
-├── results/               # Resultados generados (si aplican)
-│   ├── logs/              # Archivos de logs generados (si aplican)
-│   ├── graphs/            # Gráficas generadas durante el análisis (si aplican)
-│   ├── tables/            # Tablas generadas (si aplican)
+Pandas_ejercicio/
+- **`Código fuente`**
+  - **`pandas_analisis.py`**:    # Código fuente con las soluciones del ejercicio
+- **`Datos`**
+  - **`imdb_titulos.csv`**:     # Archivo CSV con los títulos de las películas
+  - **`imdb_elenco.csv`**:      # Archivo CSV con el elenco de las películas 
+- **`Results`**:                 # Resultados generados
+  - **`5 peliculas mas antiguas.PNG`**
+  - **`5 primeras filas elenco.PNG`**
+  - **`5 primeras filas titulo.PNG`**
+  - **`Output_textuales`**
+  - **`elenco de dracula 1958 ordenados por n.PNG`**
+  - **`papeles como protagonista por Charles Heston.PNG`**
+  - **`papeles de actor en los 50.PNG`**
+  - **`papeles de actriz en los 50.PNG`**
+  - **`papeles hechos por Bruce Wayne.PNG`**
+  - **`papeles hechos por Robert de Niro.PNG`**
+  - **`peliculas hechas en 1950.PNG`**
+  - **`peliculas hechas entre 1950-1959.PNG`**
+  - **`peliculas que contengan -Exorcist- y ordenadas de mas vieja a mas nueva.PNG`**
+  - **`peliculas que contienen el nombre de Dracula.PNG`**
+  - **`todos los papeles que hubo en The GodFather.PNG`** 
+- **`README.md`**          #Descripcion del proyecto y como ejecutarlo
