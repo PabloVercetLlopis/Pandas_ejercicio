@@ -1,0 +1,22 @@
+# Registro de titulos y elencos
+Este fichero de titulos tiene: 230407 registros
+Este fichero de elenco tiene: 3564650 registros
+
+# 10 titulos que mas se repiten
+Estos son los 10 titulos que mas se repiten:
+title
+Hamlet   19
+Carmen   16
+Macbeth   15
+Maya     11
+The Outsider   11
+The Three Musketeers  11
+Hero   11
+Othello   11
+Anna   10
+Anna Karenina   10
+
+# 1a pelicula de Romeo y Julieta
+title     Romeo and Juliet
+year       1916
+Name: 124702, dtype: object
