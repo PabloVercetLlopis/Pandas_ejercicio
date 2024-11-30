@@ -12,12 +12,14 @@ Para ejecutar este proyecto, necesitarás tener **Python 3.8 o superior** instal
 
 ## Archivos
 imdb_titulos.csv: Contiene información sobre los títulos de películas, incluyendo el año de lanzamiento y otros detalles.
+
 imdb_elenco.csv: Contiene información sobre los elencos de las películas, incluyendo los actores, roles y años de participación.
 
 ## Ejercicios
 A continuación se describen los ejercicios que resuelve el script:
 
-1 y 2. Cargar los archivos CSV (imdb_titulos.csv y imdb_elenco.csv) como dataframes de pandas y mostrar las primeras 5 filas.
+1&2. Cargar los archivos CSV (imdb_titulos.csv y imdb_elenco.csv) como dataframes de pandas y mostrar las primeras 5 filas.
+
 3. Mostrar el número de registros en cada dataframe.
 4. Mostrar las 5 películas más antiguas basadas en el año de lanzamiento.
 5. Filtrar las películas que contienen "Dracula" en el título y contar el número total de coincidencias.
@@ -36,6 +38,7 @@ A continuación se describen los ejercicios que resuelve el script:
 ## Estructura del repositorio
 
 pandas_exercise/
+
 ├── README.md              # Descripción del proyecto y cómo ejecutarlo
 ├── imdb_titulos.csv       # Archivo CSV con los títulos de las películas
 ├── imdb_elenco.csv        # Archivo CSV con el elenco de las películas
