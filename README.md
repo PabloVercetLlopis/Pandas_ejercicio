@@ -16,15 +16,20 @@ imdb_titulos.csv: Contiene información sobre los títulos de películas, incluy
 imdb_elenco.csv: Contiene información sobre los elencos de las películas, incluyendo los actores, roles y años de participación.
                 El archivo CSV necesario para este proyecto es demasiado grande para ser subido directamente al repositorio. Puedes descargarlo desde el siguiente enlace:
 
-- **[imdb_elenco.csv (Dropbox)](https://www.dropbox.com/scl/fi/2viz3ws4ygj95uq1dzpyf/imdb_elenco.csv?rlkey=556rx2x1yzgqlap780her18rx&st=z094g3u7&dl=0)**
+- **[imdb_elenco.csv (Dropbox)](https://www.dropbox.com/scl/fi/4tq8nc5jwld02k0r7kw7x/imdb_elenco.zip?rlkey=4g8vb59fxuhevy5g5sus8utfe&st=60fzczr6&dl=0)**
 
 ### Cómo descargar los datos
 
 Los archivos CSV están disponibles en formato RAW. Para descargarlos:
-
-1. Haz clic en el archivo que deseas descargar desde el repositorio.
+imdb_titulos.csv:
+1. Haz clic en el archivo.
 2. Haz clic en el botón **"RAW"**.
-3. Guarda el archivo en tu ordenador
+
+enlace_imdb_elenco.csv
+1. Haz clic en el enlace y descarga el archivo ZIP.
+2. Descomprime el archivo.
+3. Asegúrate de que el archivo descomprimido se llame **`imdb_elenco.csv`** para que sea compatible con los scripts.
+
 
 ## Ejercicios
 A continuación se describen los ejercicios que resuelve el script:
