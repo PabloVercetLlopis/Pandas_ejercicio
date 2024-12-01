@@ -8,7 +8,7 @@ Este repositorio contiene una serie de ejercicios prácticos diseñados para tra
 Para ejecutar este proyecto, necesitarás tener **Python 3.8 o superior** instalado y las siguientes librerías:
 
 - pandas
-- matplotlib (para gráficas, si se requieren)
+- matplotlib
 
 ## Archivos
 imdb_titulos.csv: Contiene información sobre los títulos de películas, incluyendo el año de lanzamiento y otros detalles.
