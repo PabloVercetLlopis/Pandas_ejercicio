@@ -14,6 +14,9 @@ Para ejecutar este proyecto, necesitarás tener **Python 3.8 o superior** instal
 imdb_titulos.csv: Contiene información sobre los títulos de películas, incluyendo el año de lanzamiento y otros detalles.
 
 imdb_elenco.csv: Contiene información sobre los elencos de las películas, incluyendo los actores, roles y años de participación.
+                El archivo CSV necesario para este proyecto es demasiado grande para ser subido directamente al repositorio. Puedes descargarlo desde el siguiente enlace:
+
+- **[imdb_elenco.csv (Dropbox)](https://www.dropbox.com/scl/fi/2viz3ws4ygj95uq1dzpyf/imdb_elenco.csv?rlkey=556rx2x1yzgqlap780her18rx&st=z094g3u7&dl=0)**
 
 ### Cómo descargar los datos
 
@@ -49,8 +52,8 @@ Pandas_ejercicio/
 - **`Código fuente`**
   - **`pandas_analisis.py`**:    # Código fuente con las soluciones del ejercicio
 - **`Datos`**
-  - **`imdb_titulos.csv`**:     # Archivo CSV con los títulos de las películas
-  - **`imdb_elenco.csv`**:      # Archivo CSV con el elenco de las películas 
+  - **`imdb_titulos.csv`**:            # Archivo CSV con los títulos de las películas
+  - **`enlace_imdb_elenco.csv`**:      # Enlace a dropbox para descargar CSV con el elenco de las películas 
 - **`Results`**:                 # Resultados generados
   - **`5 peliculas mas antiguas.PNG`**
   - **`5 primeras filas elenco.PNG`**
