@@ -15,6 +15,14 @@ imdb_titulos.csv: Contiene información sobre los títulos de películas, incluy
 
 imdb_elenco.csv: Contiene información sobre los elencos de las películas, incluyendo los actores, roles y años de participación.
 
+### Cómo descargar los datos
+
+Los archivos CSV están disponibles en formato RAW. Para descargarlos:
+
+1. Haz clic en el archivo que deseas descargar desde el repositorio.
+2. Haz clic en el botón **"RAW"**.
+3. Guarda el archivo en tu ordenador
+
 ## Ejercicios
 A continuación se describen los ejercicios que resuelve el script:
 
